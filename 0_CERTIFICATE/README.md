@@ -1,3 +1,3 @@
 * sololearn
 * linux
-* Firstday github
+* First day on github
