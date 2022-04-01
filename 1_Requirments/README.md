@@ -9,24 +9,24 @@ This travel and tourism application is created for travel organization by which 
 The project “Tourism Management System” is developed in C, which mainly focuses on basic operations like book package, check ticket and cancel ticket.
 
 ## OBJECTIVES:
-a) Giving  detailed information of tourism system.
+* Giving  detailed information of tourism system.
 
-b) Provides information that is updated daily.
+* Provides information that is updated daily.
 
-c) Travelers details can be provided and booking confirmation notification will be provided.  
+* Travelers details can be provided and booking confirmation notification will be provided.  
 
-d) Ticket Booking Notice Confirmation 
+* Ticket Booking Notice Confirmation 
 
 ## **BENEFITS:**
-a) Record Maintenance.
+* Record Maintenance.
 
-b) Simple and Easy to Use.
+* Simple and Easy to Use.
 
-c) Saves Time.
+* Saves Time.
 
-d) It is a easiest platform for all travelers which can be easily booked and know the all details.
+* It is a easiest platform for all travelers which can be easily booked and know the all details.
 
-e) This Travel and Tourism Management System is used to book a tour from anywhere An  helps the user to know all about the world, places and    tours.
+* This Travel and Tourism Management System is used to book a tour from anywhere An  helps the user to know all about the world, places and    tours.
 
 ## **4W'S and 1H:**
 
@@ -48,38 +48,38 @@ This project is implemented to do the book package, check ticket and cancel tick
 ## **Swot Analysis:**
 
 ### Strengths:
-a) Attractive places and comfortable weather condition.
+* Attractive places and comfortable weather condition.
 
-b) Higher historical and cultural diversity
+* Higher historical and cultural diversity
 
-c) Highly Secure, Scalable & Reliable.
+* Highly Secure, Scalable & Reliable.
 
-d) Very easy to operate
+* Very easy to operate
 
-e) Mobile Access.
+* Mobile Access.
 
 ### Weakness:
-a) Intense use of resources.
+* Intense use of resources.
 
-b) Physical damage to nature and marine areas.
+* Physical damage to nature and marine areas.
 
-c) Increased waste,pollution and emissions. 
+* Increased waste,pollution and emissions. 
 
-d) Risk of security.
+* Risk of security.
 
 ## Opportunities:
-a) Good chance for advance meant or process.
+* Good chance for advance meant or process.
 
-b) Opportunities for new markets and tourism product.
+* Opportunities for new markets and tourism product.
 
-c) Best experience cause marketing among peoples.
+* Best experience cause marketing among peoples.
 
 ### Threats:
-a) High competition from other countries.
+* High competition from other countries.
 
-b) Environments and social cultural degradation due to mass tourism.
+* Environments and social cultural degradation due to mass tourism.
 
-c) Affect of world oil price.
+* Affect of world oil price.
 
 ## HIGH LEVEL REQUIREMENTS:
 
