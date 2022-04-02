@@ -47,6 +47,10 @@ This project is implemented to do the book package, check ticket and cancel tick
 
 ## **Swot Analysis:
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> a450657675a136dbfc20086a4a097fcbc6e7c8ab
 
 ## HIGH LEVEL REQUIREMENTS:
 
