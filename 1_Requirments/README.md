@@ -47,39 +47,7 @@ This project is implemented to do the book package, check ticket and cancel tick
 
 ## **Swot Analysis:**
 
-### Strengths:
-* Attractive places and comfortable weather condition.
 
-* Higher historical and cultural diversity
-
-* Highly Secure, Scalable & Reliable.
-
-* Very easy to operate
-
-* Mobile Access.
-
-### Weakness:
-* Intense use of resources.
-
-* Physical damage to nature and marine areas.
-
-* Increased waste,pollution and emissions. 
-
-* Risk of security.
-
-## Opportunities:
-* Good chance for advance meant or process.
-
-* Opportunities for new markets and tourism product.
-
-* Best experience cause marketing among peoples.
-
-### Threats:
-* High competition from other countries.
-
-* Environments and social cultural degradation due to mass tourism.
-
-* Affect of world oil price.
 
 ## HIGH LEVEL REQUIREMENTS:
 
