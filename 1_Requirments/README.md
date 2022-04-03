@@ -46,7 +46,7 @@ The Tourism management system is need for families, friends and business trips. 
 This project is implemented to do the book package, check ticket and cancel ticket by the customers at anytime.
 
 ## **Swot Analysis:
-
+![alt text](https://github.com/Gayathri-karthikeyan/M1_PROJECT-IN-C/blob/main/1_Requirments/swot.png)
 
 ## HIGH LEVEL REQUIREMENTS:
 
