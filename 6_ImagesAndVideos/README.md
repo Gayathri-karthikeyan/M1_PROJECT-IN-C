@@ -6,7 +6,7 @@
 ### BOOKING PACKAGE
 ![alt text](https://github.com/Gayathri-karthikeyan/M1_PROJECT-IN-C/blob/main/6_ImagesAndVideos/Book%20package.png) 
 ### CHECKING TICKET
-![alt text](https://github.com/Gayathri-karthikeyan/M1_PROJECT-IN-C/blob/main/5_Images/Check%20ticket.png)
+![alt text](https://github.com/Gayathri-karthikeyan/M1_PROJECT-IN-C/blob/main/6_ImagesAndVideos/Check%20ticket.png)
 ### CANCELLING TICKET
 ![alt text](https://github.com/Gayathri-karthikeyan/M1_PROJECT-IN-C/blob/main/5_Images/Cancel%20ticket.png)
 ### CHANGEING PASSWORD
