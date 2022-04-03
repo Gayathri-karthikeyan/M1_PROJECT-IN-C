@@ -12,4 +12,4 @@
 ### CHANGEING PASSWORD
 ![alt text](https://github.com/Gayathri-karthikeyan/M1_PROJECT-IN-C/blob/main/6_ImagesAndVideos/change%20password.png) 
 ### LOGOUT USER
-![alt text](https://github.com/Gayathri-karthikeyan/M1_PROJECT-IN-C/blob/main/5_Images/Logout%20user.png)
+![alt text](https://github.com/Gayathri-karthikeyan/M1_PROJECT-IN-C/blob/main/6_ImagesAndVideos/Logout%20user.png)
